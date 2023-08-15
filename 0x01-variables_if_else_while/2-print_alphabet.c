@@ -3,8 +3,9 @@
 /**
  * main - basic function
  *
- * Return: success at 0
+ * Return: always 0
  */
+
 int main(void)
 {
 	char c;
